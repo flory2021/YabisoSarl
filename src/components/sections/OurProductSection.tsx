@@ -7,7 +7,7 @@ function OurProductSection() {
   return (
     <section className="w-full overflow-x-hidden">
       <div>
-        <p className="text-[32px] font-bold text-center">Our Product</p>
+        <p className="text-[32px] font-bold text-center">Nos Produits</p>
       </div>
       <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4 gap-[20px] mt-[30px]">
         {PRODUCTS.map((item, index) => (

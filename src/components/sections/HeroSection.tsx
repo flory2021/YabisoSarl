@@ -6,16 +6,16 @@ function HeroSection() {
     <section className="bg-hero flex flex-col justify-center items-end w-full h-[calc(100vh-73px)] bg-no-repeat bg-cover bg-bottom">
       <div className="bg-[#FFF3E3] mx-4 md:mr-[56px] md:ml-0 inline-block rounded-[10px] px-4 md:px-[39px] pt-[37px]  md:pt-[62px] pb-[37px]">
         <p className="text-customBlack font-semibold text-normal">
-          New Arrival
+          Du nouveaux chez Yabiso
         </p>
         <p className="text-primary py-4 md:py-2 text-header leading-tight md:text-large font-bold">
-          Discover Our <br /> New Collection
+         La peau ne ment pas :  <br /> elle reflète l'amour
         </p>
         <p className="text-customGray text-[18px] mb-[46px]">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. <br />
-          Ut elit tellus, luctus nec ullamcorper mattis.
+         Yabiso Cosmetics vous propose les meilleurs produits  <br />
+         de beauté et de soins à des prix très très bas..
         </p>
-        <MainButton text="BUY NOW" classes="w-[222px]" />
+        <MainButton text="Acheter maintenant" classes="w-[222px]" />
       </div>
     </section>
   );

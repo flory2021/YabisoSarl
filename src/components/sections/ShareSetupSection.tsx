@@ -7,7 +7,7 @@ function ShareSetupSection() {
         <p className="text-[32px] font-bold text-center">
           Share your setup with
         </p>
-        <p className="text-20 text-customGray text-center">#FuniroFurniture</p>
+        <p className="text-20 text-customGray text-center">#Yabiso Sarl</p>
       </div>
       <div className="">
         <img

@@ -4,21 +4,21 @@ function BrowseTheRangeSection() {
   const data = [
     {
       imageUrl: "/images/btr_1.png",
-      title: "Dining",
+      title: "gel de douche",
     },
     {
       imageUrl: "/images/btr_2.png",
-      title: "Living",
+      title: "bain intime",
     },
     {
       imageUrl: "/images/btr_3.png",
-      title: "Bedroom",
+      title: "lotion",
     },
   ];
   return (
     <section>
       <div>
-        <p className="text-[32px] font-bold text-center">Browse The Range</p>
+        <p className="text-[32px] font-bold text-center">Nos Differents produits</p>
         <p className="text-20 text-customGray text-center">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit.
         </p>

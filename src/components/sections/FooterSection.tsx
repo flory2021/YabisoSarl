@@ -50,9 +50,9 @@ function FooterSection() {
             <img src="/images/footer_logo.png" alt="footer logo" />
           </div>
           <div className="text-customGray mt-[50px]">
-            400 University Drive Suite 200 Coral
-            <br /> Gables,
-            <br /> FL 33134 USA
+            Kinshasa 
+            <br /> Huillerie,
+            <br /> en face du Camps Lufungula
           </div>
         </div>
         <div>

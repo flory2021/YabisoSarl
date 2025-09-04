@@ -17,7 +17,7 @@ function NavBar() {
 
   const links = [
     {
-      title: "Home",
+      title: "Accueil",
       link: "/",
     },
     {
@@ -25,7 +25,7 @@ function NavBar() {
       link: "/shop",
     },
     {
-      title: "About",
+      title: "Qui somme nous",
       link: "/about",
     },
     {
